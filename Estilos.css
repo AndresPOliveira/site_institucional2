@@ -30,7 +30,10 @@ body{
     list-style: none;
     align-items: center;
 }
-
+a{
+    color: #e3b062;
+    text-decoration: none;
+   }
 /*Banner*/
 
 
@@ -100,3 +103,9 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.header ul #here{
+    font-weight: 1000;
+    color: #32b9cd;
+}
+
